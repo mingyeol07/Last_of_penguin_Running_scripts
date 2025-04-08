@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b6e1b447636dc24fbf311b7362efc9c, type: 3}
+  m_Name: 4_Gentoo
+  m_EditorClassIdentifier: 
+  penguinId: 4
+  penguinName: "\uC820\uD22C"
+  individuality_1_name: "\uCE5C\uC808\uD568"
+  individuality_1_value: 3
+  individuality_2_name: "\uD2B8\uB864\uB9C1"
+  individuality_2_value: 2
+  passiveAbility_sprite: {fileID: 21300000, guid: f42f403dddba8bd4d923b24b064d874c, type: 3}
+  passiveAbility_name: "\uC544\uD504\uC9C0 \uB9C8\uC694"
+  passiveAbility: "\uC77C\uC815 \uC2DC\uAC04\uB9C8\uB2E4 \uD53C\uD574\uB97C \uB9C9\uC544\uC8FC\uB294
+    \uBCF4\uD638\uB9C9\uC744 \uC0DD\uC131\uD569\uB2C8\uB2E4."
+  feverAbility_sprite: {fileID: 21300000, guid: a45b717f5fcbe2a42985085d21104393, type: 3}
+  feverAbility_name: "\uC544\uD504\uC9C0 \uC54A\uC544"
+  feverAbility: "\uD53C\uBC84\uD0C0\uC784 \uC9C0\uC18D\uC2DC\uAC04\uB3D9\uC548 \uC2DC\uAC04\uC774
+    \uC904\uC5B4\uB4E4\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+  battleAbility_sprite: {fileID: 21300000, guid: 7a232064662afb940be9103bf8ee3177, type: 3}
+  battleAbility_name: "\uB108\uB9CC \uBE7C\uACE0"
+  battleAbility: "\uC0C1\uB300 \uD3AD\uADC4\uC744 \uC81C\uC678\uD55C \uB2E4\uB978
+    \uD3AD\uADC4 \uBAA8\uB450\uC758 \uC2DC\uAC04\uC744 \uC99D\uAC00\uC2DC\uD0B5\uB2C8\uB2E4."
+  penguinPrefab: {fileID: 5543969250662117120, guid: a092e1db55ea58e458e6c6a1e4d0a9c8, type: 3}
